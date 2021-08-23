@@ -1,6 +1,5 @@
 # GNU Radio Software Signing Key
 GNU Radio releases are signed with the following public keys:
-```
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -24,6 +23,7 @@ CRDteXdD95UUNRk2AQDfDsNlPZ8h+Ri1Vgi3mTcOIExiEsaS008HbgWkYThmygEA
 sQ+nkwpzzBv6ZmisyPqchrEGNqwzhvuclWO5ZU9Vmw4=
 =AiL+
 -----END PGP PUBLIC KEY BLOCK-----
+```
 ```
 pub   ed25519 2021-03-05 [SC]
       723E C3A2 B905 33C6 B93D  FBC8 ED79 7743 F795 1435
